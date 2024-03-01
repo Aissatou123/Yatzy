@@ -2,6 +2,8 @@ L'ensemble des fichiers pour notre jeu yatzy se trouve dans public--->assets.
 Notre jeu comprends 2 joueurs. Chaque joueur a trois lancers par tour pour obtenir la meilleure combinaison possible. Les combinaisons comprennent des suites, des brelans, des carrés, un full, etc. Après chaque lancer, le joueur peut choisir de garder certains dés et de relancer les autres pour améliorer sa main. Une fois les trois lancers effectués, le joueur doit choisir une catégorie dans laquelle enregistrer son score pour ce tour. Le joueur avec le score total le plus élevé à la fin de toutes les manches remporte la partie. 
 J'ai choisit de mettre deux joueurs pour rendre la partie plus amusante. 
 
+Vérifier le repértoire portfolio pour voir un boutton qui permet de jouer au jeu yatzy.
+
 DESCRIPTION DE MES FONCTIONS: 
 
 rollDice() : Cette fonction est déclenchée lorsque le joueur clique sur le bouton "ROLL". Elle simule le lancer des dés en générant des nombres aléatoires pour chaque dé, puis met à jour l'affichage des dés avec les résultats du lancer.
