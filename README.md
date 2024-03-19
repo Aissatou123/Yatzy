@@ -1,4 +1,4 @@
-SVP ALLEZ AU DEPOT PORTFOLIO POUR BIEN VOIR QUE LE JEU A ETE AJOUTE DANS LE DEPOT PORTFOLIO. VOUS M'AVEZ PAS MIS LES POINTS AU DEVOIR 2.
+SVP ALLEZ AU DEPOT PORTFOLIO   https://github.com/Aissatou123/Portfolio/tree/main/public  POUR BIEN VOIR QUE LE JEU A ETE AJOUTE DANS LE DEPOT PORTFOLIO. VOUS M'AVEZ PAS MIS LES POINTS AU DEVOIR 2.
 
 L'ensemble des fichiers pour notre jeu yatzy du devoir 3 se trouve dans devoir3. J'ai eu du mal a joindre api.php avec yatzy.js donc ca a créé un bug pour le jeu. L'ensmble des tache ont été complété mais seulement ya un bugg qui empeche un lanceur de jeu que j'ignore.
 Notre jeu comprends 2 joueurs. Chaque joueur a trois lancers par tour pour obtenir la meilleure combinaison possible. Les combinaisons comprennent des suites, des brelans, des carrés, un full, etc. Après chaque lancer, le joueur peut choisir de garder certains dés et de relancer les autres pour améliorer sa main. Une fois les trois lancers effectués, le joueur doit choisir une catégorie dans laquelle enregistrer son score pour ce tour. Le joueur avec le score total le plus élevé à la fin de toutes les manches remporte la partie. 
